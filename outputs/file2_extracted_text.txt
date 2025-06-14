@@ -1,0 +1,646 @@
+
+--- Page 1 ---
+Basic understanding 
+of a company’s 
+financial statements
+September 2020
+
+--- Page 2 ---
+2
+PwC | Basic Understanding of a Company's Financials
+Table of contents
+What are financial statements? 
+3
+Balance sheet
+5
+Income statement 
+16
+Cashflow statement
+24
+2
+
+--- Page 3 ---
+What are financial 
+statements?
+3
+PwC | Basic Understanding of a Company's Financials
+
+--- Page 4 ---
+4
+PwC | Basic Understanding of a Company's Financials
+Financial statements are written records that illustrates the business activities and the financial performance of a company. In
+most cases they are audited to ensure accuracy for tax, financing, or investing purposes. 
+A methodically work through of the three financial statements in order to assess the Financial health of a company. 
+Balance Sheet
+Income Statement
+Statement of Cash Flows
+The financial statements 
+• Statement of financial position
+• Statement of operation/profit and loss
+Balance Sheet  is a snapshot at a point in time. On the top half you 
+have the company’s assets and on the bottom half its liabilities and 
+Shareholders’ Equity (or Net Worth). The assets and liabilities are 
+typically listed in order of liquidity and separated between current and 
+non-current.
+The income statement covers a period of time, such as a quarter or 
+year. It illustrates the profitability of the company from an accounting 
+(accrual and matching) perspective. It starts with the revenue line and 
+after deducting expenses derives net income.
+The cash flow statement look at the cash position of the company . 
+It answers it answers the questions ; How much of the organisation’s
+cash goes to its creditors and shareholders?  Does it keep enough for 
+its own investment and growth?  has 3 components  cash from 
+operations, cash used in investing, and cash from financing.   It 
+“undoes” all of the accounting principles and shows the cash flows of 
+the business.
+Source CFI
+
+--- Page 5 ---
+Balance sheet
+5
+PwC | Basic Understanding of a Company's Financials
+
+--- Page 6 ---
+6
+PwC | Basic Understanding of a Company's Financials
+Simplified Balance Sheet
+Assets
+Current assets
+Cash
+20,000
+Accounts receivable
+3,000
+Inventory
+60,000
+Prepaid expenses
+11,000
+Total current assets
+94,000
+Non current assets
+Property plant & 
+equipment 
+110,000
+Intangible assets
+10,000
+Total non current assets 
+120,000
+Total assets
+214,000
+Liabilities
+Current liabilities 
+Accounts payable 
+2,000
+Accrued expenses
+1,000
+Total current liabilities
+3,000
+Non current liabilities
+11,000
+Bank loan
+100,000
+Shareholder equity
+Common shares
+89,000
+Retained Earnings
+11,000
+Total liabilities and 
+shareholders equity
+214,000
+Current vs non-current
+Current
+Assets
+Balance sheet
+The Balance sheet has 
+3 main categories:
+Assets
+Liabilities
+Equity
+Assets
+• Expected to be converted into 
+cash in less than 1 year 
+• Accounts receivable, inventory
+Liabilities
+• Will be paid in less than 1 year
+• Trade accounts payable
+Non-current
+Assets
+• Expected to be held greater 
+than 1 year
+• Property, plant, and equipment
+Liabilities
+• Repayment terms longer than 
+1 year
+• Loan repayable over a 5 year 
+period
+Source CFI
+
+--- Page 7 ---
+7
+PwC | Basic Understanding of a Company's Financials
+See accompanying notes.
+Illustrative balance sheet (assets )
+Current
+Assets
+• Expected to be converted into 
+cash in less than 1 year 
+• Accounts receivable, inventory
+Non-current
+Assets
+• Expected to be held greater than 
+1 year
+• Property, plant, and equipment
+
+--- Page 8 ---
+8
+PwC | Basic Understanding of a Company's Financials
+8
+Cash and Investments
+• Investments in equity or 
+debt instruments to be 
+held for capital gain and/or 
+income
+Cash and investments
+A company will hold external investments for two reasons:
+• Excess cash
+• Accumulating cash to make a large purchase
+A company can also make internal investments
+• (less than year)
+Internal 
+investments
+Long term
+Short term
+External 
+investments
+• (more than year)
+• Investment in subsidiaries, 
+associates and joint 
+ventures
+8
+Source CFI
+
+--- Page 9 ---
+9
+PwC | Basic Understanding of a Company's Financials
+Intangible Asset
+Intangible assets are items of value that are 
+used to generate revenues and have no 
+physical substance. 
+Unearned/Differed Revenue
+Unearned revenue arises when a company 
+sells something it has not yet delivered e.g. 
+licenses, subscriptions 12 month 
+subscription sold for $1,200 in January:
+Goodwill
+• Non-current asset
+• Company has intangible Value
+e.g. brand, customers,intellectual capital
+If a company is purchased for more than 
+the fair value of net assets (assets less 
+liabilities):
+Purchase price
+X
+Fair value of net assets acquired
+(X)
+Goodwill
+X
+Earned:
+$100
+$300 $600 $900 $1,200
+Jan
+Mar
+Jun
+Sep
+Dec
+Unearned $1,100 $900 $600 $300 $0
+Other assets 
+Trademarks
+Patents
+Copyrights
+Source CFI
+
+--- Page 10 ---
+10
+PwC | Basic Understanding of a Company's Financials
+Current
+Liabilities
+• Will be paid in less than 1 year
+• Trade accounts payable
+Non-current
+Liabilities
+• Repayment terms longer than 1 
+year
+• Loan repayable over a 5 year 
+period
+Illustrative balance sheet (liabilities)
+See accompanying notes.
+
+--- Page 11 ---
+11
+PwC | Basic Understanding of a Company's Financials
+New buildings
+Building 
+improvements
+Leasehold 
+improvements
+Other liabilities 
+Commitments
+Commitments are future obligations that a company agrees to. 
+Contingencies
+Contingencies are liabilities that may or may not happen, depending 
+on circumstance.
+e.g. lawsuit
+The liability must be recorded if:
+1.A loss will be suffered in the future
+2.The loss amount can be reasonably estimated
+If not, just disclose a note.
+Contingent gains are never recorded in financial statements.
+Source CFI
+
+--- Page 12 ---
+12
+PwC | Basic Understanding of a Company's Financials
+Illustrative balance sheet (statement of shareholder’s equity)
+See accompanying notes.
+
+--- Page 13 ---
+13
+PwC | Basic Understanding of a Company's Financials
+Common shares
+• Allow for participation in the profits of the 
+company
+– Comes in the form of a dividend
+• Allow for voting rights in a company
+– One vote for every share held
+• If dissolved, any residual amount after 
+everyone else is paid would go to the 
+common shareholders
+Preferred shares
+Authorised shares
+• The total number of shares a 
+company can sell
+Common vs preferred shares
+Outstanding (Issued) shares
+• The total number of shares a 
+company has sold/issued
+• Offer investors a fixed dividend
+– It may not be paid annually
+• Will accumulate/pay before common share 
+dividends
+• Most businesses don’t issue because they 
+are viewed as debt with a tax disadvantage
+– Dividends do not reduce taxable income
+See accompanying notes.
+Source CFI
+
+--- Page 14 ---
+14
+PwC | Basic Understanding of a Company's Financials
+Aspects of the Equity 
+Par
+Receives
+Contributed surplus
+Paid-up share capital (180,000 x 25¢)
+$45,000
+Contributed surplus (180,000 x 15¢)
+$27,000
+e.g. 180,000 shares 40¢/each 25¢/par
+Aspects of the equity 
+Contributed Surplus
+Other comprehensive income
+Other comprehensive income (OCI):
+• certain company gains and losses that are not always recorded 
+through the income statement
+e.g. unrealised gains and losses on investments and hedging 
+instruments
+Source CFI
+
+--- Page 15 ---
+Understanding the 
+income statement 
+and cash flow 
+15
+PwC | Basic Understanding of a Company's Financials
+
+--- Page 16 ---
+Income statement
+16
+PwC | Basic Understanding of a Company's Financials
+
+--- Page 17 ---
+17
+PwC | Basic Understanding of a Company's Financials
+The Income statement has 3 main sections:
+Income Statement
+Revenues
+Expenses
+Profit or loss
+
+--- Page 18 ---
+18
+PwC | Basic Understanding of a Company's Financials
+VS
+Single step vs multi-step income statements
+Single Step
+Multiple Step
+Source CFI
+
+--- Page 19 ---
+19
+PwC | Basic Understanding of a Company's Financials
+Operating 
+Profit 
+EPS –Investor 
+Ratio
+Net Operating 
+Profit 
+OCI-other 
+gains and 
+losses 
+The Illustrative income statement
+
+--- Page 20 ---
+20
+PwC | Basic Understanding of a Company's Financials
+(e.g. materials used in manufacturing)
+Cost of goods sold or Cost of sales:
+• May be shown as summarised line item 
+• May be broken Down to its expense items 
+Direct Materials
+Direct Labor
+Direct overhead 
+(e.g. professional services delivered)
+(to the production of the goods or services) 
+Cost of sales
+Source CFI
+
+--- Page 21 ---
+21
+PwC | Basic Understanding of a Company's Financials
+Advertising and 
+promotion cost
+Legal, Insurance and 
+accounting expenses. 
+Office supplies
+Other related 
+expenses. 
+Selling, general and administrative expenses.
+Selling, general and administrative, or SG&A contains a large number of expense items such as:
+Source CFI
+
+--- Page 22 ---
+22
+PwC | Basic Understanding of a Company's Financials
+Gains and losses 
+Gains and losses may appear separately or grouped after all 
+operating items under “other income or expenses”. They are related 
+to activities that are incidental to operations such as:
+Sale of Investments
+Foreign exchange translations
+Financial Instrument transactions
+Source CFI
+
+--- Page 23 ---
+23
+PwC | Basic Understanding of a Company's Financials
+Other aspects of the Income Statement
+Other comprehensive income (OCI):
+• certain company gains and losses that are not always recorded 
+through the income statement
+e.g. unrealised gains and losses on investments and hedging 
+instruments
+Other comprehensive income
+Source CFI
+
+--- Page 24 ---
+Cashflow statement
+24
+PwC | Basic Understanding of a Company's Financials
+
+--- Page 25 ---
+25
+PwC | Basic Understanding of a Company's Financials
+The cash flow statement 
+Day-to-day business operations;
+Revenues and expenses that have been 
+collected and paid during the year
+Depreciation and amortisation are not included. 
+Non-current assets that support the business:
+• Property, plant and equipment 
+• Business acquisitions
+Transactions regarding shares or debt.
+Company raises funds by either borrowing or 
+issuing shares. 
+Statement of cash flows demonstrates:
+• Where cash is being generated 
+• Where cash is being used in the business
+Operating
+Investing
+Financing
+Source CFI
+
+--- Page 26 ---
+26
+PwC | Basic Understanding of a Company's Financials
+Statement of Cash Flows
+The transactions are sorted by activity type:
+Operating
+Investing
+Financing
+The closing cash balance 
+All cash transactions
+The opening cash balance
+Source CFI
+
+--- Page 27 ---
+27
+PwC | Basic Understanding of a Company's Financials
+Direct method 
+Direct method of cash flow starts with cash transactions. 
+(Transactions are separated into cash received and cash 
+paid.)
+Indirect method 
+Indirect method of cash flow starts with net income.
+(Non-cash adjustments are then added.)
+Direct method vs Indirect method 
+Source CFI
+
+--- Page 28 ---
+28
+PwC | Basic Understanding of a Company's Financials
+Net cash provided by 
+operating activities
+Changes in working capital 
+PPE Investment 
+Financing 
+requirement/surplus
+Represents operating ‘lifeblood’ of business after paying necessary outgoings for financing 
+and tax
+Shows whether business is absorbing funds for working capital or releasing them. Trend 
+may indicate ether financial stress or loose control over working capital 
+Companies must invest in PPE to maintain their productive capacity.
+A downward trend may indicate a declining company. Identify the necessary sustainable 
+level of expenditure. 
+Shows whether internally generated funds are sufficient to cover investments made in fixed 
+assets and businesses. Continuous deficits indicate that growth depends on regular 
+injections of external finance. 
+Key elements in a cash flow statement
+Source CFI
+
+--- Page 29 ---
+29
+PwC | Basic Understanding of a Company's Financials
+See accompanying notes.
+For full disclosure:
+Notes are provided to allow the 
+reader of the financial statements to 
+understand and make judgements of 
+financial activities of the company.
+The Full Disclosure Principle
+
+--- Page 30 ---
+30
+PwC | Basic Understanding of a Company's Financials
+Indirect Information
+Company 
+accounting 
+standards
+How inventory & 
+investments are 
+valued
+Financial 
+instruments
+Revenue is 
+recognized
+Property, plant & 
+equipment is 
+amortized
+Any other
+policies
+A breakdown of the 
+types of investments
+Debt and financial 
+instruments
+What is included in:
+Inventory
+Intangible assets
+PP&E
+Income taxes
+Notes of indirect information:
+• Help provide the entire financial picture of 
+an organisation
+• Not related to the numbers in the financial 
+statements
+Commitments
+Contingencies
+Stock based
+compensation plans
+Three Key Financial Statements Notes
+Significant Accounting Policies
+Direct Information
+Indirect Information
+Source CFI
+
+--- Page 31 ---
+31
+PwC | Basic Understanding of a Company's Financials
+Performance Ratio 
+• Net Profit margin, 
+• return on assets (ROA)
+• return on equity(ROE)
+• return on capital employed (ROCE), 
+• gross margin ratios
+• Efficiency (
+• Solvency Ratios
+• Current ratio= Current assets/Current 
+liabilities
+• Leverage or Gearing
+• Operating cash flow/Interest paid
+• Operating cash flow/Dividends paid 
+• Operating cash flow/Operating profit
+• Dividend yield,
+• P/E ratio, 
+• earnings per share (EPS),
+• dividend payout ratio
+Ratio Analysis 
+The Ratio analysis is a quantitative method of gaining insight into a company's liquidity, operational efficiency, and profitability by studying its 
+financial statements such as the balance sheet and income statement. Ratio analysis is a cornerstone of fundamental equity analysis.
+Solvency Ratios
+Investor Ratios
+
+--- Page 32 ---
+32
+PwC | Basic Understanding of a Company's Financials
+The benefits of an annual report
+The annual report contains a significant amount of information:
+Financial
+• Management discussion & 
+analysis(MD&A)
+• Financial statements
+• Notes to financial statements
+• Messages from the Chair, CEO
+• Corporate profile 
+• MD&A
+• Risk and control processes and analysis
+Non-financial
+Operational 
+performance
+Financial 
+performance
+Strategic 
+direction
+Source CFI
+
+--- Page 33 ---
+33
+PwC | Basic Understanding of a Company's Financials
+Letters to the 
+shareholders
+01.
+Business description
+02.
+Management’s 
+Discussion and 
+Analysis (MD&A)
+03.
+Reporting on internal 
+controls
+04.
+Audit report
+05.
+Balance sheet, 
+Income Statement 
+and Statement of 
+Cash Flows
+06.
+Notes to the financial 
+statements
+07.
+Earnings per share
+08.
+Earnings per share
+Listing of directors of 
+the company
+09.
+Contents of an annual report
+The annual report will always include:
+Source CFI
+
+--- Page 34 ---
+34
+PwC | Basic Understanding of a Company's Financials
+Acts as sort of variance 
+analysis
+Explains company 
+performance
+Lists future actions to be 
+taken
+Identifies the key risk 
+facing the organization
+Management discussion and analysis
+MD&A provides information regarding past performance and future strategic direction
+
+--- Page 35 ---
+pwc.com/jm
+Thank you
+© 2020 PricewaterhouseCoopers. All rights reserved.  PwC refers to the Jamaica member firm, and may sometimes refer to the PwC network. Each member firm is a 
+separate legal entity. Please see www.pwc.com/structure for further details.

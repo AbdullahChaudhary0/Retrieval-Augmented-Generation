@@ -1,0 +1,620 @@
+
+--- Page 1 ---
+BS FINAL YEAR PROJECT
+HANDBOOK 2023
+(FAST SCHOOL OF COMPUTING)
+
+--- Page 2 ---
+BS FINAL YEAR PROJECT
+HANDBOOK 2023
+(FAST SCHOOL OF COMPUTING)
+Revised October 2023
+
+--- Page 3 ---
+
+--- Page 4 ---
+FAST-NUCES
+01
+BS Final Year Project Handbook 2023
+02
+03
+04
+05
+12
+13
+14
+14
+14
+29
+32
+33
+41
+44
+
+--- Page 5 ---
+FAST-NUCES
+02
+BS Final Year Project Handbook 2023
+
+--- Page 6 ---
+BS Final Year Project Handbook 2023
+FAST-NUCES
+03
+October
+
+--- Page 7 ---
+FAST-NUCES
+04
+BS Final Year Project Handbook 2023
+
+--- Page 8 ---
+FAST-NUCES
+05
+BS Final Year Project Handbook 2023
+
+--- Page 9 ---
+FAST-NUCES
+06
+BS Final Year Project Handbook 2023
+
+--- Page 10 ---
+FAST-NUCES
+07
+BS Final Year Project Handbook 2023
+
+--- Page 11 ---
+FAST-NUCES
+08
+BS Final Year Project Handbook 2023
+
+--- Page 12 ---
+FAST-NUCES
+09
+BS Final Year Project Handbook 2023
+
+--- Page 13 ---
+FAST-NUCES
+10
+BS Final Year Project Handbook 2023
+
+--- Page 14 ---
+FAST-NUCES
+11
+BS Final Year Project Handbook 2023
+
+--- Page 15 ---
+FAST-NUCES
+12
+BS Final Year Project Handbook 2023
+
+--- Page 16 ---
+FAST-NUCES
+13
+BS Final Year Project Handbook 2023
+
+--- Page 17 ---
+FAST-NUCES
+14
+BS Final Year Project Handbook 2023
+
+--- Page 18 ---
+FAST-NUCES
+15
+BS Final Year Project Handbook 2023
+
+--- Page 19 ---
+FAST-NUCES
+16
+BS Final Year Project Handbook 2023
+
+--- Page 20 ---
+FAST-NUCES
+17
+BS Final Year Project Handbook 2023
+
+--- Page 21 ---
+ 
+FAST-NUCES
+18
+BS Final Year Project Handbook 2023
+
+--- Page 22 ---
+Table 1b: FYP-2
+FAST-NUCES
+19
+BS Final Year Project Handbook 2023
+
+--- Page 23 ---
+FAST-NUCES
+20
+BS Final Year Project Handbook 2023
+
+--- Page 24 ---
+FAST-NUCES
+21
+BS Final Year Project Handbook 2023
+
+--- Page 25 ---
+FAST-NUCES
+22
+BS Final Year Project Handbook 2023
+
+--- Page 26 ---
+FAST-NUCES
+23
+BS Final Year Project Handbook 2023
+
+--- Page 27 ---
+FAST-NUCES
+24
+BS Final Year Project Handbook 2023
+
+--- Page 28 ---
+FAST-NUCES
+25
+BS Final Year Project Handbook 2023
+
+--- Page 29 ---
+ 
+ 
+FAST-NUCES
+26
+BS Final Year Project Handbook 2023
+
+--- Page 30 ---
+FAST-NUCES
+27
+BS Final Year Project Handbook 2023
+
+--- Page 31 ---
+FAST-NUCES
+28
+BS Final Year Project Handbook 2023
+
+--- Page 32 ---
+FAST-NUCES
+29
+BS Final Year Project Handbook 2023
+
+--- Page 33 ---
+FAST-NUCES
+30
+BS Final Year Project Handbook 2023
+
+--- Page 34 ---
+FAST-NUCES
+31
+BS Final Year Project Handbook 2023
+
+--- Page 35 ---
+FAST-NUCES
+32
+BS Final Year Project Handbook 2023
+
+--- Page 36 ---
+FAST-NUCES
+33
+BS Final Year Project Handbook 2023
+
+--- Page 37 ---
+FAST-NUCES
+34
+BS Final Year Project Handbook 2023
+
+--- Page 38 ---
+FAST-NUCES
+35
+BS Final Year Project Handbook 2023
+
+--- Page 39 ---
+FAST-NUCES
+36
+BS Final Year Project Handbook 2023
+Authors' Declaration
+This states Authors' declaration that the work presented in the 
+report is their own, and has not been submitted/presented 
+previously to any other institution or organization. 
+Abstract (optional) (50 to 125 words)
+Three to ﬁve sentences describing the essence of the work. An 
+abstract is a short, 50-125 words summary of a work. An Abstract 
+should state the purpose, ﬁndings, and conclusions of your work 
+without commenting on or evaluating the work itself. Put the 
+abstract on a separate page that follows the title page.
+Acknowledgments (if any)  
+Executive Summary:
+The executive summary should be one to two pages' overview of 
+the information contained in the FYP report.  It should give the 
+reader an easy reference, in a very brief form, to the important 
+information contained in the report and explained in more detail 
+in the body of the report. People reading the report will use this 
+section as a reference during presentations. 
+Table of Contents 
+The table of contents lists the information contained in the report 
+in the order in which it will be found. All major topics of interest 
+should be listed. 
+Introduction
+The introduction should contain a brief overview of the problem 
+being addressed and the background information needed for the 
+reader to understand the work being done and the reasoning 
+behind it.  After reading the introduction, the reader should know 
+exactly what the report is about, why the work was done, and how 
+this work adds to the knowledge that the reader may have about 
+the topic.
+
+--- Page 40 ---
+FAST-NUCES
+37
+BS Final Year Project Handbook 2023
+Body Chapters
+Conclusions and/ or Recommendations
+Present a summary of what you found in the results section. Here 
+you should describe the techniques that you used for each 
+analysis and the results of each analysis. 
+Conclusions are broad generalizations that focus on addressing 
+the questions to answer which the project was undertaken. 
+Recommendations are your choices for strategies or tactics 
+based on your conclusions. Quite often authors are tempted to 
+speculate on outcomes that cannot be supported by the ﬁndings. 
+Do not draw any conclusions or make any recommendations that 
+your work cannot clearly support.
+References 
+This section should list all existing information sources used in 
+the FYP.  It is important to allow the reader to see all of the 
+sources used and enable the reader to further explore these 
+sources to verify the information presented.
+Appendix/ces
+This section should include all supporting information from the 
+project that was not included in the body of the report.  You 
+should include surveys, complex statistical calculations, certain 
+detailed tables, and other such information in an appendix.  The 
+information presented in this section is important to support the 
+work presented in the body of the report but would make it more 
+diﬃcult to read and understand the work if presented within the 
+body of the report. Appendixes may include maps, graphs, 
+charts, or other helpful material.
+Cite the appendix items in the report narrative (write "see 
+Appendix A") and organize appendices (e.g., Appendix A, 
+Appendix B, etc.)
+
+--- Page 41 ---
+FAST-NUCES
+38
+BS Final Year Project Handbook 2023
+Any tables, ﬁgures, form, or other materials that are not totally 
+central to the analysis but that need to be shown are placed in the 
+Appendix.
+Footnotes/ End Notes
+Footnotes are located at the bottom of a page. End notes are like 
+footnotes but are located at the back rather than the bottom of 
+each page. These would include all of the references for all works 
+cited in the review of related literature or any other sections of the 
+report as well as the references for quotations, either direct or 
+indirect, taken from other sources, or any footnote comments that 
+might have been included. These are listed in numeric order as 
+presented in the text. 
+1. Lani Arredondo (1999) Business Presentations, 
+McGraw-Hill, pp. 23-34.
+2. Jann Schill (1996) On Purpose, Heinemann, 
+Australia, p. 23.
+3. Paul Tench (1981) Pronunciation Skills, 
+Macmillan, p. 23.
+In case an endnote is followed by another citing the same source, 
+only the word: “Ibid” (as above) shall substitute for the entire 
+text. If the page no. is diﬀerent, then the page number shall 
+appear after the word: “Ibid”. For example:
+1. Jann Schill (1996) On Purpose, Heinemann, Australia,  
+p. 23.
+    Ibid., p. 54.
+In case the same source comes to be mentioned after a few 
+interrupting sources, then the word “op cit” would suﬃce 
+(mentioned earlier is written), followed by the page number.
+Bibliography or Literature Cited
+Bibliography will appear in alphabetic order of the authors' 
+surnames. Author's surname shall come ﬁrst as is the case in the 
+catalogues of libraries.
+
+--- Page 42 ---
+FAST-NUCES
+39
+BS Final Year Project Handbook 2023
+Arredondo, Lani (1999) Business Presentations, McGraw-Hill.
+Schill, Jann (1996) On Purpose, Heinemann, Australia.
+Tench, Paul (1981) Pronunciation Skills, Macmillan.
+Note: Use underlining (italics) for titles of books, periodicals 
+newspapers, works of art, ships, etc. Articles or chapters in 
+books, periodicals, or journals shall come in double quotes.
+Paper
+Standard A4 size 
+Width: 8.27"
+Height: 11.69"
+Weight: 90 Grams
+Fonts, Type Styles
+Font Size = 11 (Normal Text)
+Font = Times New Roman 
+Title= 26 bold (Times New Roman)
+Sub-title=20 bold (Times New Roman)
+Heading 1 (Font Size) = 16 (Bold)
+Font = Arial
+Heading 2 (Font Size) = 14 (Bold)
+Font = Arial
+Heading 3 (Font Size) = 13 (Bold, Italics)
+Font = Arial
+Margins
+Top = 1.5"
+Bottom = 1.0"
+Left = 2.0"
+Right = 1.0"
+Spacing
+Line Spacing = 1.5
+Paragraph Spacing = 6 pts
+
+--- Page 43 ---
+FAST-NUCES
+40
+BS Final Year Project Handbook 2023
+Indentation
+Indent all quotations comprising 4 or more lines by 5 spaces from 
+left.
+Page Numbers
+Except for the title page, number all pages which come before the 
+ﬁrst page of the body chapters consecutively with lower case 
+roman numerals (i, ii, iii, iv,…). 
+The ﬁrst page with Arabic numeral (1, 2, 3, and so on) starts from 
+the page of the introduction but it is mentioned from page 2 
+onwards.
+Mention page numbers on the top right of the page. The ﬁrst page 
+of each section or chapter will not carry the page number; 
+however, the page number will be counted for the proceeding 
+page.
+Headers
+The header will comprise the title of the Project report. On every 
+odd page will appear the title of the report while on the even 
+pages the title of the chapter or section will be mentioned. The 
+ﬁrst page of every section or chapter shall not carry the header.
+
+--- Page 44 ---
+FAST-NUCES
+41
+BS Final Year Project Handbook 2023
+9. FYP Report Contents
+There are two types of FYPs – R&D and development. 
+Therefore, the basic contents for the two types of reports are 
+given below as a guideline. A speciﬁc and tailored format 
+according to an FYP's need is suggested by a supervisor.
+Development FYP Report Format
+1. Introduction 
+2. Research on existing products
+3. Project Vision 
+3.1. Problem Statement 
+3.2. Business Opportunity 
+3.3. Objectives 
+3.4. Project Scope 
+3.5. Constraints
+3.6. Stakeholders Description
+ 
+3.6.1. Stakeholders Summary
+ 
+3.6.2. Key High Level Goals and Problems of 
+Stakeholders
+4. Software Requirement Speciﬁcations
+4.1. List of Features
+4.2. Functional Requirements
+4.3. Non-Functional Requirements
+5. Iteration Plan
+6. Iteration 1 (all artifacts mentioned in Table 1a)
+7. Iteration 2 (all artifacts mentioned in Table 1a)
+ 
+and so on … (for subsequent iterations)
+8. Implementation Details (not the programming code but the 
+algorithmic and procedural details especially related to the 
+hidden/ backend algorithms that are not covered in the design)
+9. User Manual 
+
+--- Page 45 ---
+FAST-NUCES
+42
+BS Final Year Project Handbook 2023
+References
+Appendices
+R&D-Based FYP Report Format
+Chapter 1. Introduction
+1.1. Problem Domain 
+1.2. Research Problem Statement
+1.3. Software Requirements Speciﬁcation (if 
+applicable)
+Chapter 2. Literature Review 
+2.1. Research Item # 1
+ 
+2.1.1. Summary of the research item (1 or 2 
+paragraphs)
+ 
+2.1.2. Critical analysis of the research item 
+(Strengths and Weaknesses)
+ 
+2.1.3.  Relationship to the proposed research work
+2.2. Research Item # 2
+2.2.1. Summary of the research item (1 or 2 
+paragraphs)
+2.2.2. Critical analysis of the research item 
+(Strengths and Weaknesses)
+2.2.3.  Relationship to the proposed research work
+2.3. Research Item # 3
+2.3.1. Summary of the research item (1 or 2 
+paragraphs)
+2.3.2. Critical analysis of the research item 
+(Strengths and Weaknesses)
+2.3.3.  Relationship to the proposed research work
+2.4. Research Item # 4
+2.4.1. Summary of the research item (1 or 2 
+paragraphs)
+2.4.2. Critical analysis of the research item 
+(Strengths and Weaknesses)
+2.4.3.  Relationship to the proposed research work
+
+--- Page 46 ---
+FAST-NUCES
+43
+BS Final Year Project Handbook 2023
+2.5. Research Item # 5
+2.5.1. Summary of the research item (1 or 2 
+paragraphs)
+2.5.2. Critical analysis of the research item 
+(Strengths and Weaknesses)
+2.5.3. Relationship to the proposed research work
+Chapter 3.  
+Proposed Approach (Framework/ Heuristic/  
+Algorithm/ Protocol/ Mathematical-model)
+Chapter 4.  Implementation (Simulations or Experiments)
+Chapter 5.  Validation and Testing
+Chapter 6.  Results and Discussion
+Chapter 7.  Conclusions and Future Work
+References
+Appendices
+
+--- Page 47 ---
+FAST-NUCES
+44
+BS Final Year Project Handbook 2023
+Course Name (Limit of up to 10
+courses)
+National University
+of Computer & Emerging Sciences, [Campus]
+FYP Title:
+FYP Type (Development or R&D-based):
+Brief Description
+UN SDGs targeted by the FYP:
+FYP (Algorithms and knowledge used from Core Courses):
+
+--- Page 48 ---
+FAST-NUCES
+45
+BS Final Year Project Handbook 2023
+Group Members:
+External Supervisor (if any):
+Name of Faculty Supervisor
+Name 
+Organization
+Supervisor’s Signature
+Dated
+
+--- Page 49 ---
+FAST-NUCES
+46
+BS Final Year Project Handbook 2023
+National University
+of Computer & Emerging Sciences, [Campus]
+Title of FYP:
+Group Members:
+About Evaluator:
+
+--- Page 50 ---
+FAST-NUCES
+47
+BS Final Year Project Handbook 2023
+Evaluation: (please tick one)
+* Modiﬁcations (Minor/Major) Recommended (if any)
+* Reason for Rejection (mandatory, if any FYP is rejected)
+
+--- Page 51 ---
+FAST-NUCES
+48
+BS Final Year Project Handbook 2023
+National University
+of Computer & Emerging Sciences, [Campus]
+Title of FYP:
+Group Members:
+About Evaluator:
+
+--- Page 52 ---
+FAST-NUCES
+49
+BS Final Year Project Handbook 2023
+Evaluation: 
+(A= Excellent, B=Good, C=Satisfactory, D=Not Satisfactory, 
+*
+F=Not Accepted )
+(Dev = Development FYP, R&D = R&D-based FYP)
+* Justify in case of ticking “Not Accepted”. Any other 
+comments/suggestions! 
+
+--- Page 53 ---
+FAST-NUCES
+50
+BS Final Year Project Handbook 2023
+National University
+of Computer & Emerging Sciences, [Campus]
+Title of FYP:
+Group Members:
+About Evaluator:
+Evaluation: 
+(A= Excellent, B=Good, C=Satisfactory, D=Not Satisfactory, 
+*
+F=Not Accepted )
+(Dev = Development FYP, R&D = R&D-based FYP)
+
+--- Page 54 ---
+FAST-NUCES
+51
+BS Final Year Project Handbook 2023
+* Justify in case of ticking “Not Accepted”. Any other 
+comments/suggestions! 
+
+--- Page 55 ---
+FAST-NUCES
+52
+BS Final Year Project Handbook 2023
+National University
+of Computer & Emerging Sciences, [Campus]
+Title of FYP:
+Group Members:
+About Evaluator:
+
+--- Page 56 ---
+FAST-NUCES
+53
+BS Final Year Project Handbook 2023
+Evaluation: 
+(A= Excellent, B=Good, C=Satisfactory, D=Not Satisfactory, 
+*
+F=Not Accepted )
+(Dev = Development FYP, R&D = R&D-based FYP)
+
+--- Page 57 ---
+* Justify in case of ticking “Not Accepted”. Any other 
+comments/suggestions! 
+
+--- Page 58 ---
+FAST-NUCES
+54
+BS Final Year Project Handbook 2023
+National University
+of Computer & Emerging Sciences, [Campus]
+Title of FYP:
+Group Members:
+About Evaluator:
+
+--- Page 59 ---
+FAST-NUCES
+55
+BS Final Year Project Handbook 2023
+Evaluation: 
+(A= Excellent, B=Good, C=Satisfactory, D=Not Satisfactory, 
+*
+F=Not Accepted )
+(Dev = Development FYP, R&D = R&D-based FYP)
+
+--- Page 60 ---
+FAST-NUCES
+56
+BS Final Year Project Handbook 2023
+* Comments on the FYP (Mandatory)!
+
+--- Page 61 ---
+FAST-NUCES
+57
+BS Final Year Project Handbook 2023
+National University
+of Computer & Emerging Sciences, [Campus]
+
+--- Page 62 ---
+RN Stationers 0300-516 6046 - Oct 2023/300
